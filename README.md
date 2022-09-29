@@ -9,5 +9,5 @@
 open [https://www.themealdb.com](https://www.themealdb.com)
 
 ## **Note**: image should be of " jpeg " format.  :shipit:
-
+## if you are adding link in dataBase. Js in **imgUrl** then no need to add image in **Assets** folder
 
