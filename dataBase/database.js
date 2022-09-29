@@ -17,6 +17,7 @@ const dataBase = [
     name: "Dal fry",
     price: "₹ 300",
     imgUrl: "../Assets/img0.jpeg",
+// imgUrl: "https://imgurl...."  => best option
   },
   {
     id: 1,
