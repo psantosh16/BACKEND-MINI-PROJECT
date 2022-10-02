@@ -14,16 +14,16 @@
 const dataBase = [
   {
     id: 0,
-    name: "Dal fry",
+    name: "Octopus Magetta",
     price: "₹ 300",
-    imgUrl: "../Assets/img0.jpeg",
+    imgUrl: "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHN8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 // imgUrl: "https://imgurl...."  => best option
   },
   {
     id: 1,
     name: "Chicken Handi",
     price: "₹ 450",
-    imgUrl: "../Assets/img1.jpeg",
+    imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
   },
 ];
 
