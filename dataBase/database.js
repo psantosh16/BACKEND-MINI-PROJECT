@@ -21,7 +21,7 @@ const dataBase = [
   },
   {
     id: 1,
-    name: "Chicken Handi",
+    name: "Chicken Biriyani",
     price: "₹ 450",
     imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
   },
