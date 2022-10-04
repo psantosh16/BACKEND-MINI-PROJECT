@@ -17,7 +17,7 @@ const dataBase = [
   {
     id: 0,
     name: "Octopus Magetta",
-    price: " 300",
+    price: "300",
     veg:"false",
     imgUrl: "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHN8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
 // imgUrl: "https://imgurl...."  => best option
@@ -26,7 +26,7 @@ const dataBase = [
   {
     id: 2,
     name: "Chicken Biriyani "
-    price: " 250",
+    price: "250",
     veg:"false",
     imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
   },
@@ -34,7 +34,7 @@ const dataBase = [
    {
     id: 4,
     name: "Chicken Lollipop",
-    price: " 180",
+    price: "180",
     veg:"false",
     imgUrl: "https://media.istockphoto.com/photos/chicken-lollipop-appetizer-picture-id1090502088?b=1&k=20&m=1090502088&s=170667a&w=0&h=SxvdE0645A4_nQt2ALBnBOJ-EgiXZkSk06yfujXit_0=",
   },
@@ -72,48 +72,14 @@ const dataBase = [
   },
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 // Veg   
    {
     id: 3,
     name: "Pav Bhaji",
-    price: "₹ 120",
+    price: "120",
     veg:"true",
     imgUrl: "https://media.istockphoto.com/photos/masala-pavbhaji-or-pav-bhaji-picture-id800368868?b=1&k=20&m=800368868&s=612x612&w=0&h=DfmVXU81F6JmL15aI8i1JM6R-EOI4G3-JoZp1bYfk10="
    },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
 ];
 
