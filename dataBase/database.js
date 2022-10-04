@@ -25,7 +25,7 @@ const dataBase = [
   
   {
     id: 2,
-    name: "Chicken kofta",
+    name: "Chicken Biriyani "
     price: " 250",
     veg:"false",
     imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
