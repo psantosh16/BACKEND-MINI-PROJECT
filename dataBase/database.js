@@ -25,7 +25,7 @@ const dataBase = [
   
   {
     id: 2,
-    name: "Chicken Biriyani "
+    name: "Chicken Handi "
     price: "250",
     veg:"false",
     imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
@@ -65,16 +65,57 @@ const dataBase = [
   
    {
     id: 12,
-    name: "Fried Rice",
+    name: "Chicken Fried Rice",
     price: "180",
     veg:"false",
     imgUrl: "https://media.istockphoto.com/photos/braised-chicken-in-a-vegetable-tomato-rice-picture-id481711278?b=1&k=20&m=481711278&s=170667a&w=0&h=iENwpigBSyBnrcfKY1L6hnOh85vWqbW0XqIU0BTzyqE=",
   },
   
+  {
+    id: 14,
+    name: "Prawn Curry",
+    price: "260",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJhd24lMjBjdXJyeXxlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60",
+  },
+  
+   {
+    id: 16,
+    name: "Chicken Wings",
+    price: "210",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1625937759420-26d7e003e04c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHdpbmdzfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+  },
+  
+   {
+    id: 18,
+    name: "Shrimp Fry",
+    price: "300",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1625943555419-56a2cb596640?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2hyaW1wJTIwZnJ5fGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+  },
+  
+  {
+    id: 20,
+    name: "Chicken Burger",
+    price: "160",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1521305916504-4a1121188589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGJ1cmdlcnxlbnwwfDJ8MHx8&auto=format&fit=crop&w=400&q=60",
+  },
+  
+    
+  {
+    id: 22,
+    name: "Hyderabadi Biryani",
+    price: "240",
+    veg:"false",
+    imgUrl: "",
+  },
+  
   
 // Veg   
    {
-    id: 3,
+    id: 1,
     name: "Pav Bhaji",
     price: "120",
     veg:"true",
