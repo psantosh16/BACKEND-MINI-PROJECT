@@ -122,6 +122,54 @@ const dataBase = [
     imgUrl: "https://media.istockphoto.com/photos/masala-pavbhaji-or-pav-bhaji-picture-id800368868?b=1&k=20&m=800368868&s=612x612&w=0&h=DfmVXU81F6JmL15aI8i1JM6R-EOI4G3-JoZp1bYfk10="
    },
   
+  {
+    id: 3,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 5,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 7,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 9,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 11,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 13,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
 ];
 
 export default dataBase;
