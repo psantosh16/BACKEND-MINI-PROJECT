@@ -25,7 +25,7 @@ const dataBase = [
   
   {
     id: 2,
-    name: "Chicken Handi "
+    name: "Chicken Handi",
     price: "250",
     veg:"false",
     imgUrl: "https://recipe52.com/wp-content/uploads/2022/03/chicken-handi-10.jpg",
@@ -109,8 +109,49 @@ const dataBase = [
     name: "Hyderabadi Biryani",
     price: "240",
     veg:"false",
+    imgUrl: "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/d6hurstexsssq8ds0py7",
+  },
+  
+   {
+    id: 24,
+    name: "Salmon Prawn Risotto",
+    price: "240",
+    veg:"false",
+    imgUrl: "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+  },
+  
+   {
+    id: 26,
+    name: "Recheado Masala Fish",
+    price: "410",
+    veg:"false",
+    imgUrl: "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg", 
+  },
+  
+   {
+    id: 28,
+    name: "",
+    price: "",
+    veg:"false",
     imgUrl: "",
   },
+  
+   {
+    id: 30,
+    name: "",
+    price: "",
+    veg:"false",
+    imgUrl: "",
+  },
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
 // Veg   
