@@ -132,10 +132,10 @@ const dataBase = [
   
   {
     id: 5,
-    name: "",
-    price: "120",
+    name: "Vegan Lasagna",
+    price: "325",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
    },
   
   {
