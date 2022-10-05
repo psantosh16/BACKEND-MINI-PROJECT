@@ -140,22 +140,30 @@ const dataBase = [
   
   {
     id: 7,
-    name: "",
-    price: "120",
+    name: "Creamy Tomato Soup",
+    price: "99",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg"
    },
   
   {
     id: 9,
-    name: "",
-    price: "120",
+    name: "Chocolate Caramel Crispy",
+    price: "200",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/1550442508.jpg"
    },
   
   {
     id: 11,
+    name: "Dal Fry",
+    price: "120",
+    veg:"true",
+    imgUrl: "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg"
+   },
+  
+  {
+    id: 13,
     name: "",
     price: "120",
     veg:"true",
@@ -163,7 +171,31 @@ const dataBase = [
    },
   
   {
-    id: 13,
+    id: 15,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 17,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 19,
+    name: "",
+    price: "120",
+    veg:"true",
+    imgUrl: ""
+   },
+  
+  {
+    id: 21,
     name: "",
     price: "120",
     veg:"true",
