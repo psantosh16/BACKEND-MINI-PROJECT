@@ -164,42 +164,34 @@ const dataBase = [
   
   {
     id: 13,
-    name: "",
-    price: "120",
+    name: "Strawberry Rhubarb Pie",
+    price: "225",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg"
    },
   
   {
     id: 15,
-    name: "",
-    price: "120",
+    name: "Sushi",
+    price: "190",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
    },
   
   {
     id: 17,
-    name: "",
+    name: "Moroccan Carrot Soup",
     price: "120",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/jcr46d1614763831.jpg"
    },
   
   {
     id: 19,
-    name: "",
+    name: "Hot Chocolate Fudge",
     price: "120",
     veg:"true",
-    imgUrl: ""
-   },
-  
-  {
-    id: 21,
-    name: "",
-    price: "120",
-    veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg"
    },
   
 ];
