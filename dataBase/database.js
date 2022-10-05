@@ -124,10 +124,10 @@ const dataBase = [
   
   {
     id: 3,
-    name: "",
-    price: "120",
+    name: "Mixed Fruit Salad",
+    price: "290",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://images.pexels.com/photos/10480245/pexels-photo-10480245.jpeg?auto=compress&cs=tinysrgb&w=600"
    },
   
   {
