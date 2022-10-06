@@ -277,17 +277,17 @@ const dataBase = [
    },
     {
     id: 31,
-    name: "",
-    price: "",
+    name: "Tandoori Roti",
+    price: "25",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.whiskaffair.com/wp-content/uploads/2020/08/Tandoori-Roti-2-3.jpg"
    },
     {
     id: 33,
-    name: "",
-    price: "",
+    name: "Butter Naan",
+    price: "25",
     veg:"true",
-    imgUrl: ""
+    imgUrl: "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
    },
     {
     id: 35,
