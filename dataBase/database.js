@@ -20,7 +20,6 @@ const dataBase = [
     price: "300",
     veg:"false",
     imgUrl: "https://images.unsplash.com/photo-1559070135-f259b369bf87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHN8ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-// imgUrl: "https://imgurl...."  => best option
   },
   
   {
@@ -127,25 +126,6 @@ const dataBase = [
     veg:"false",
     imgUrl: "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg", 
   },
-  
-   {
-    id: 28,
-    name: "",
-    price: "",
-    veg:"false",
-    imgUrl: "",
-  },
-  
-   {
-    id: 30,
-    name: "",
-    price: "",
-    veg:"false",
-    imgUrl: "",
-  },
-  
-  
-  
   
   
   
@@ -289,16 +269,6 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
    },
-    {
-    id: 35,
-    name: "",
-    price: "",
-    veg:"true",
-    imgUrl: ""
-   },
-   
-  
-  
 ];
 
 export default dataBase;
