@@ -36,7 +36,7 @@ const dataBase = [
     name: "Chicken Lollipop",
     price: "180",
     veg:"false",
-    imgUrl: "https://media.istockphoto.com/photos/chicken-lollipop-appetizer-picture-id1090502088?b=1&k=20&m=1090502088&s=170667a&w=0&h=SxvdE0645A4_nQt2ALBnBOJ-EgiXZkSk06yfujXit_0=",
+    imgUrl: "https://gully2gully.com/wp-content/uploads/2022/03/lollipop-gravy.jpg",
   },
   
    {
@@ -60,7 +60,7 @@ const dataBase = [
     name: "Butter Chicken",
     price: "350",
     veg:"false",
-    imgUrl: "https://media.istockphoto.com/photos/indian-butter-chicken-picture-id639390540?b=1&k=20&m=639390540&s=170667a&w=0&h=zhF-luTj0uh0zlha-SLuWKG6tiTeyMwnWyIF6H4wON8=",
+    imgUrl: "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg",
   },
   
    {
@@ -160,7 +160,7 @@ const dataBase = [
     name: "Pav Bhaji",
     price: "120",
     veg:"true",
-    imgUrl: "https://media.istockphoto.com/photos/masala-pavbhaji-or-pav-bhaji-picture-id800368868?b=1&k=20&m=800368868&s=612x612&w=0&h=DfmVXU81F6JmL15aI8i1JM6R-EOI4G3-JoZp1bYfk10="
+    imgUrl: "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Instant-Pot-Mumbai-Pav-Bhaji-Recipe-500x500.jpg"
    },
   
   {
@@ -234,6 +234,70 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://www.themealdb.com/images/media/meals/xrysxr1483568462.jpg"
    },
+   
+    {
+    id: 21,
+    name: "Vada pav",
+    price: "25",
+    veg:"true",
+    imgUrl: "https://www.cookwithmanali.com/wp-content/uploads/2018/04/Vada-Pav-500x500.jpg"
+   },
+   
+   
+    {
+    id: 23,
+    name: "Paneer Butter Masala",
+    price: "250",
+    veg:"true",
+    imgUrl: "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg"
+   },
+   
+   
+    {
+    id: 25,
+    name: " Cucumber Raita",
+    price: "160",
+    veg:"true",
+    imgUrl: "https://www.vegrecipesofindia.com/wp-content/uploads/2011/09/cucumber-raita-recipe-1.jpg"
+   },
+   
+    {
+    id: 27,
+    name: "Aloo Chat",
+    price: "70",
+    veg:"true",
+    imgUrl: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/aloo-chaat-recipe.jpg"
+   },
+    {
+    id: 29,
+    name: "Samosa",
+    price: "40",
+    veg:"true",
+    imgUrl: "https://static.toiimg.com/thumb/55453664.cms?imgsize=317782&width=800&height=800"
+   },
+    {
+    id: 31,
+    name: "",
+    price: "",
+    veg:"true",
+    imgUrl: ""
+   },
+    {
+    id: 33,
+    name: "",
+    price: "",
+    veg:"true",
+    imgUrl: ""
+   },
+    {
+    id: 35,
+    name: "",
+    price: "",
+    veg:"true",
+    imgUrl: ""
+   },
+   
+  
   
 ];
 
