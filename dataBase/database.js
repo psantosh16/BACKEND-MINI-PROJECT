@@ -269,6 +269,23 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://www.cookwithmanali.com/wp-content/uploads/2014/11/Soft-Homemade-Naan-500x500.jpg"
    },
+  
+  {
+    id: 35,
+    name: "Ukadiche Modak",
+    price: "25",
+    veg:"true",
+    imgUrl: "https://1.bp.blogspot.com/-wD7L8Mnkr-8/YTZAFkln53I/AAAAAAAAsMU/SFtadaxgpvU43pmPWNsCfjrkrkns6kk9gCLcBGAsYHQ/s2048/Ukadiche%2BModak%2Bblog%2Bpic9.jpg"
+   },
+  
+  {
+    id: 37,
+    name: "Motichur Ladoo",
+    price: "25",
+    veg:"true",
+    imgUrl: "https://www.bigbasket.com/media/uploads/p/l/800451461_1-laddoos-sweets-special-motichur-ladoo.jpg"
+   },
+ 
 ];
 
 export default dataBase;
