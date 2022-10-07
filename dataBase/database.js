@@ -62,13 +62,14 @@ const dataBase = [
     imgUrl: "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg",
   },
   
-   {
+    {
     id: 12,
-    name: "Chicken Fried Rice",
+    name: "Fried Rice",
     price: "180",
     veg:"false",
-    imgUrl: "https://media.istockphoto.com/photos/braised-chicken-in-a-vegetable-tomato-rice-picture-id481711278?b=1&k=20&m=481711278&s=170667a&w=0&h=iENwpigBSyBnrcfKY1L6hnOh85vWqbW0XqIU0BTzyqE=",
+    imgUrl: "https://healthynibblesandbits.com/wp-content/uploads/2019/04/Chicken-Fried-Rice-FF.jpg",
   },
+  
   
   {
     id: 14,
@@ -106,9 +107,9 @@ const dataBase = [
   {
     id: 22,
     name: "Hyderabadi Biryani",
-    price: "240",
+    price: "220",
     veg:"false",
-    imgUrl: "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/d6hurstexsssq8ds0py7",
+    imgUrl: "https://www.whiskaffair.com/wp-content/uploads/2020/07/Chicken-Biryani-2-3.jpg",
   },
   
    {
@@ -274,6 +275,7 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/aloo-chaat-recipe.jpg"
    },
+  
     {
     id: 29,
     name: "Samosa",
@@ -281,6 +283,7 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://static.toiimg.com/thumb/55453664.cms?imgsize=317782&width=800&height=800"
    },
+  
     {
     id: 31,
     name: "Tandoori Roti",
@@ -288,6 +291,7 @@ const dataBase = [
     veg:"true",
     imgUrl: "https://www.whiskaffair.com/wp-content/uploads/2020/08/Tandoori-Roti-2-3.jpg"
    },
+  
     {
     id: 33,
     name: "Butter Naan",
@@ -299,7 +303,7 @@ const dataBase = [
   {
     id: 35,
     name: "Ukadiche Modak",
-    price: "25",
+    price: "110",
     veg:"true",
     imgUrl: "https://1.bp.blogspot.com/-wD7L8Mnkr-8/YTZAFkln53I/AAAAAAAAsMU/SFtadaxgpvU43pmPWNsCfjrkrkns6kk9gCLcBGAsYHQ/s2048/Ukadiche%2BModak%2Bblog%2Bpic9.jpg"
    },
@@ -307,10 +311,50 @@ const dataBase = [
   {
     id: 37,
     name: "Motichur Ladoo",
-    price: "25",
+    price: "110",
     veg:"true",
     imgUrl: "https://www.bigbasket.com/media/uploads/p/l/800451461_1-laddoos-sweets-special-motichur-ladoo.jpg"
    },
+  
+    {
+    id: 39,
+    name: "Idli Sambar",
+    price: "50",
+    veg:"true",
+    imgUrl: "https://www.spiceindiaonline.com/wp-content/uploads/2020/04/Bombay-Sambar-15.jpg"
+   },
+ 
+    {
+    id: 41,
+    name: "Sandwich",
+    price: "30",
+    veg:"true",
+    imgUrl: "https://static.toiimg.com/thumb/83740315.cms?imgsize=361903&width=800&height=800"
+   },
+  
+    {
+    id: 43,
+    name: "Manchurian",
+    price: "25",
+    veg:"true",
+    imgUrl: "https://www.licious.in/blog/wp-content/uploads/2021/09/shutterstock_1650877375.jpg"
+   },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
  
 ];
 
