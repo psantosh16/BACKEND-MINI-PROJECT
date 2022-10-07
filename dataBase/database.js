@@ -120,12 +120,38 @@ const dataBase = [
   },
   
    {
-    id: 26,
-    name: "Recheado Masala Fish",
-    price: "410",
+    id: 26 ,
+    name: "Vanilla Fugde",
+    price: "100",
     veg:"false",
-    imgUrl: "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg", 
+    imgUrl: "https://images.unsplash.com/photo-1618581260815-9371027b9516?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aWNlJTIwY3JlYW18ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
   },
+  
+   
+     {
+    id: 28 ,
+    name: "Milk Shake",
+    price: "140",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1638176066666-ffb2f013c7dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlsayUyMHNoYWtlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60", 
+  },
+  
+     {
+    id: 30 ,
+    name: "Coca Cola",
+    price: "40",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1514178255089-603d3a35b24a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29sZCUyMGRyaW5rc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60", 
+  },
+  
+     {
+    id:32 ,
+    name: "Raspberry Martini",
+    price: "80",
+    veg:"false",
+    imgUrl: "https://images.unsplash.com/photo-1543363950-c78545037afc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sZCUyMGRyaW5rc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60", 
+  },
+  
   
   
   
