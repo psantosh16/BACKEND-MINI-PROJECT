@@ -124,7 +124,7 @@ const dataBase = [
     id: 26 ,
     name: "Vanilla Fugde",
     price: "100",
-    veg:"false",
+    veg:"true",
     imgUrl: "https://images.unsplash.com/photo-1618581260815-9371027b9516?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aWNlJTIwY3JlYW18ZW58MHwyfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
   },
   
@@ -132,8 +132,8 @@ const dataBase = [
      {
     id: 28 ,
     name: "Milk Shake",
-    price: "140",
-    veg:"false",
+    price: "80",
+    veg:"true",
     imgUrl: "https://images.unsplash.com/photo-1638176066666-ffb2f013c7dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWlsayUyMHNoYWtlfGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60", 
   },
   
@@ -141,7 +141,7 @@ const dataBase = [
     id: 30 ,
     name: "Coca Cola",
     price: "40",
-    veg:"false",
+    veg:"true",
     imgUrl: "https://images.unsplash.com/photo-1514178255089-603d3a35b24a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29sZCUyMGRyaW5rc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60", 
   },
   
@@ -149,17 +149,83 @@ const dataBase = [
     id:32 ,
     name: "Raspberry Martini",
     price: "80",
-    veg:"false",
+    veg:"true",
     imgUrl: "https://images.unsplash.com/photo-1543363950-c78545037afc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29sZCUyMGRyaW5rc3xlbnwwfDJ8MHx8&auto=format&fit=crop&w=500&q=60", 
   },
   
+    {
+    id:34,
+    name: "Gulab Jamun",
+    price: "130",
+    veg:"true",
+    imgUrl: "https://www.funfoodfrolic.com/wp-content/uploads/2020/07/Gulab-Jamun-Thumbnail-500x500.jpg", 
+  },
   
+    {
+    id: 36,
+    name: "Rose Rasgulla",
+    price: "170",
+    veg:"true",
+    imgUrl: "https://www.kunjilal.com/wp-content/uploads/2020/06/Kunjilal-Gulab-Rasgulla.jpg", 
+  },
   
+    {
+    id:38 ,
+    name: "Kaju Katli",
+    price: "200",
+    veg:"true",
+    imgUrl: "https://static.toiimg.com/thumb/55048826.cms?imgsize=392932&width=800&height=800", 
+  },
   
+    {
+    id:40 ,
+    name: "French Fries",
+    price: "130",
+    veg:"true",
+    imgUrl: "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800", 
+  },
   
+    {
+    id:42 ,
+    name: "Banana Chips",
+    price: "60",
+    veg:"true",
+    imgUrl: "https://cdn.shopify.com/s/files/1/0553/9908/8305/products/Bananachips_800x.jpg?v=1639387230", 
+  },
   
+    {
+    id:44 ,
+    name: "Classic Cocktail",
+    price: "90",
+    veg:"true",
+    imgUrl: "https://www.liquor.com/thmb/8qvvPbLk-YuBmVzoKDsnqL2L4Hw=/735x0/absinthe-frappe-720x720-primary-6d15e43ea9b04901b968a3d0c8f13da8.jpg", 
+  },
   
+    {
+    id:46 ,
+    name: "Misal Pav",
+    price: "40",
+    veg:"true",
+    imgUrl: "https://pipingpotcurry.com/wp-content/uploads/2019/04/Misal-Pav-Instant-Pot-1.jpg", 
+  },
   
+    {
+    id:48 ,
+    name: "Egg Roast",
+    price: "55",
+    veg:"false",
+    imgUrl: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-egg-recipes-1582902639.png?crop=0.670xw:0.834xh;0.218xw,0.0858xh&resize=640:*", 
+  },
+  
+    {
+    id:50 ,
+    name: "Dabeli",
+    price: "30",
+    veg:"true",
+    imgUrl: "https://thumbs.dreamstime.com/b/gujarati-street-food-dabeli-kachchhi-79275994.jpg", 
+  },
+  
+ 
   
 // Veg   
    {
@@ -340,22 +406,37 @@ const dataBase = [
     imgUrl: "https://www.licious.in/blog/wp-content/uploads/2021/09/shutterstock_1650877375.jpg"
    },
   
+   {
+    id: 45,
+    name: "Chole Bhature",
+    price: "160",
+    veg:"true",
+    imgUrl: "https://static.toiimg.com/thumb/53314156.cms?imgsize=1762111&width=800&height=800"
+   },
+  
+   {
+    id: 47,
+    name: "Pomegranate Juice",
+    price: "50",
+    veg:"true",
+    imgUrl: "https://healthynibblesandbits.com/wp-content/uploads/2016/11/How-to-Cut-a-Pomegranate-FF.jpg"
+   },
+   {
+    id: 49,
+    name: "Paneer Pulao",
+    price: "240",
+    veg:"true",
+    imgUrl: "https://media.dinedelicious.in/wp-content/uploads/2021/07/Matar-Paneer-Pulao-2-500x500.jpg"
+   },
+   {
+    id: 51,
+    name: "Diwali Special ",
+    price: "99",
+    veg:"true",
+    imgUrl: "https://www.rmcfoods.com/img/faral.jpg"
+   },
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
-];
+]; 
 
 export default dataBase;
